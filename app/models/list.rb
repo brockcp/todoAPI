@@ -1,3 +1,6 @@
 class List < ApplicationRecord
-  has_many :items
+
+  belongs_to :user, required: false # for curl
+  has_many :items, dependent: :destroy
+
 end
