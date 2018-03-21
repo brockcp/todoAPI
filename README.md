@@ -1,25 +1,18 @@
-# README
+# ToDoAPI
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- **ToDoAPI** is a basic to-do list API application.
 
-Things you may want to cover:
+### Features:
 
-* Ruby version
+- Access/modify data from either Command Line or browser.
 
-* System dependencies
+### Technologies used:
 
-* Configuration
+- Built with **Ruby** on the **Rails Framework**
+- **PryRails** gem
+- **Bootstrap-Sass** gem
+- **Active Model Serializers** gem
 
-* Database creation
+### Background
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# todoAPI
+- I built ToDoAPI in December 2017 during the backend phase of my web developer program at Bloc.  
